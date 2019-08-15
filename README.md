@@ -10,7 +10,7 @@
 
 ## Features
 
--Scrapes images from google and sends them to the destination of choice
+- Scrapes images from google and sends them to the destination of choice
 
 ## Documentation 
 
