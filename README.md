@@ -5,15 +5,18 @@
 
 
 - [Features](#features)
-- [Documentation](#documentation)
+- [Examples](#examples)
 - [Support](#support)
 
 ## Features
 
 - Scrapes images from google and sends them to the destination of choice
 
-## Documentation 
-
+## Examples 
+**Logo**
+![](images/doggoscrapelogo.jpg)
+**Source Code**
+![](images/doggoscrape1.png)
 ## Support
 
 Reach out to me at one of the following places!
