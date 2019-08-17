@@ -17,7 +17,7 @@
 
 ![](images/doggoscrapelogo.jpg)
 
-**Source Code**
+**Source Code w/output**
 ![](images/doggoscrape1.png)
 ## Support
 
