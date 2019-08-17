@@ -9,7 +9,6 @@ images = shiba.find_all('img')
 randomShiba = random.randint(0, len(images) - 1)
 image = images[randomShiba]
 image_link = image['src']
-+
 
 # Opens a SMTP connection and sends the picture via email
 port = 465
